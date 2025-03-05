@@ -1,17 +1,17 @@
 images:
   dataFetcher:
     repository: ghcr.io/civic-dashboard/data-fetcher
-    tag: try-fix-build-test-86dd98320fae7a959481bfc819845bfe1e353388                       
+    tag: main-bc6dd46869c3ed41a45ba06e97ebb32911cf49c0                       
     pullPolicy: IfNotPresent
 
   dataStore:
     repository: ghcr.io/civic-dashboard/data-store
-    tag: try-fix-build-test-86dd98320fae7a959481bfc819845bfe1e353388                       
+    tag: main-bc6dd46869c3ed41a45ba06e97ebb32911cf49c0                     
     pullPolicy: IfNotPresent
 
   syncElastic:
     repository: ghcr.io/civic-dashboard/sync-elastic
-    tag: try-fix-build-test-86dd98320fae7a959481bfc819845bfe1e353388             
+    tag: main-bc6dd46869c3ed41a45ba06e97ebb32911cf49c0             
     pullPolicy: IfNotPresent
 
   postgres:
